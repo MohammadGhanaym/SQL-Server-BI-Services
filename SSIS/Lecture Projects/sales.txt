@@ -1,0 +1,6 @@
+﻿1,Alice,23
+1,Khalid,20
+1,ali,45
+2,ahmed,15
+2,khalid,30
+2,ali,20

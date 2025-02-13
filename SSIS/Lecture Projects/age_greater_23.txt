@@ -1,0 +1,11 @@
+St_Id,St_Fname,St_Lname,St_Address,St_Age,Dept_Id,St_super
+4,Ahmed,Mohamed   ,Alex,24,10,1
+5,Khalid,Moahmed   ,Alex,24,10,1
+6,Heba,Farouk    ,Mansoura,25,20,
+7,Ali,Hussien   ,Cairo,25,20,6
+8,Mohamed,Fars      ,Alex,28,20,6
+9,Saly,Ahmed     ,Mansoura,24,20,
+10,Fady,Ali       ,Alex,24,30,9
+11,Marwa,Ahmed     ,Cairo,24,30,9
+13,Said,,,30,30,12
+14,,Saleh     ,Tanta,30,30,
